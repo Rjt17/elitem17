@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rajat
+- 👀 I’m interested in Python | Data Science | Web Frameworks
+- 🌱 I’m currently learning Data scraping | Django | MySQL
+- 💞️ I’m looking to collaborate on Frameworks | Python projects
+- 📫 How to reach me Rajata316@gmail.com | +91-8949232402 | Rajat.19bcol232@jecrcu.edu.in
